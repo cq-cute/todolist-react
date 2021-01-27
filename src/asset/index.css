@@ -1,0 +1,40 @@
+body{
+  background-color:  #D0D0D0;
+}
+.title{
+    height: 44px;
+    line-height: 44px;
+    text-align: center;
+    background: #000;
+    color:#fff;
+  }
+   
+.title input{
+    height: 32px;
+    outline: none;
+    margin-left: 10px;
+  }
+ 
+.container{
+    width: 800px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+   
+.container h2{
+    margin-left: 20px;
+  }
+
+.list{
+    padding: 10px;
+  }
+   
+.list li{
+    line-height: 40px;
+    margin-left: 30px;
+  }
+button {
+    float: right;
+    margin-right: 30px;
+  }
